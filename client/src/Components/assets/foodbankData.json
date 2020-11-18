@@ -1,0 +1,640 @@
+{
+    "type": "FeatureCollection",
+    "crs": {
+      "type": "name",
+      "properties": { "name": "urn:ogc:def:crs:OGC:1.3:CRS84" }
+    },
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "223",
+            "name": "ABCCM - Crisis Ministry",
+            "street": "24 Cumberland Avenue ",
+            "city": "Asheville",
+            "county": "Buncombe",
+            "zip": "28801",
+            "phone": "(828) 259-5300",
+            "hours": "Mon - Fri, 8:30am - 4:30pm; Meal Served, Mon - Fri, 11:00am - 2:00pm",
+            "type": "Food Pantry, Community Meal",
+            "description": "Call or knock on the door for a pre-made box. Available for financial assistance on a case by case basis."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.598300,-82.559060]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "152",
+            "name": "ABCCM - North Samaritan Crisis Ministry",
+            "street": "403 Weaverville Highway",
+            "city": "Asheville",
+            "county": "Buncombe",
+            "zip": "28804",
+            "phone": "(828) 259-5303",
+            "hours": "Mon - Fri, 10:00am - 2:00pm ",
+            "type": "Food Pantry",
+            "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.677060,-82.576090]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "224",
+          "name": "ABCCM - Veterans Restoration Quarters",
+          "street": "1329 Tunnel Road E",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28805",
+          "phone": "(828) 298-7952",
+          "hours": "Open 24 Hours",
+          "type": "Emergency Shelter",
+          "description": "Pre-packed boxes"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.582740,-82.467090]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "id": "1144",
+            "name": "Arden Street Ministry",
+            "street": "35 Airport Road",
+            "city": "Asheville",
+            "county": "Buncombe",
+            "zip": "28704",
+            "phone": "(828) 216-6917",
+            "hours": "downtown area from 6:30 pm until 8:00 pm on Fridays.",
+            "type": "Community Meal",
+            "description": "Setting up table with food and supplies, supervising nearby."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35,457936,-82.517587]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1072",
+          "name": "ASH-NAZ Food Pantry",
+          "street": "385 Hazel Mill Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828) 214-5031",
+          "hours": "1st Saturday of the Month, 8:00-10:00am",
+          "type": "Food Pantry",
+          "description": "Drive thru pick up of pre boxed food."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.592060,-82.591940]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1018",
+          "name": "Be Loved House Hospitality",
+          "street": "10 N Market St, Asheville, NC 28801",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 242-8261",
+          "hours": "Please call to arrange potential community drop offs",
+          "type": "Emergency Shelter, Food Pantry, Community Meal",
+          "description": "  "
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.596320,-82.550770]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "26",
+          "name": "Bethel Seventh Day Adventist Church",
+          "street": "238 South French Broad Avenue",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 329-9111",
+          "hours": "2nd & 4th Tuesday, 10:00am - 1:00pm",
+          "type": "Food Pantry, Produce Market",
+          "description": "Pre packed boxes - TEFAP"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.585380,-82.559070]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "865",
+          "name": "Beverly Hills Baptist - Family To Family",
+          "street": "777 Tunnel Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28805",
+          "phone": "(828) 298-4623",
+          "hours": "2nd & 4th Thursday of Month, 4:00pm - 6:00pm; Must Live in 28805 Zip Code to receive non-TEFAP food.",
+          "type": "Food Pantry",
+          "description": "Pre packed boxes - TEFAP"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.585760,-82.507720]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "907",
+          "name": "Biltmore Church of God - Just a Jesus Thought Ministry",
+          "street": "1390 Sweeten Creek Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28803",
+          "phone": "(828) 606-3316",
+          "hours": "Wednesday, 4:30pm - 6:00pm",
+          "type": "Food Pantry",
+          "description": "Prepacked boxes drive thru"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.534350,-82.518290]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1053",
+          "name": "Buncombe County CEM - Arthur R. Edington Center",
+          "street": "285 Livingston Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 423-3250",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": " "
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.578530,-82.561870]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1055",
+          "name": "Buncombe County CEM - Aston Park Towers",
+          "street": "165 South French Broad Avenue",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 250-4102",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.589150,-82.559910]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1054",
+          "name": "Buncombe County CEM - Bartlett Arms Apartments",
+          "street": "121 Bartlett Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 582-7443",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.583210,-82.561590]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1048",
+          "name": "Buncombe County CEM - Deaverview Apartments",
+          "street": "275 Deaverview Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828)250-5517",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.581250,-82.618010]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "4242",   
+          "name": "Buncombe County CEM - Issac Dickson Elementary",
+          "street": "125 Hill Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "N/A",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.595390,-82.565540]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1050",
+          "name": "Buncombe County CEM - Pisgah View Apartments",
+          "street": "1 Granada Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828) 301-2888",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": " "
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.569280,-82.582080]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1056",
+          "name": "Buncombe County CEM - Shiloh Center",
+          "street": "486 Caribou Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28803",
+          "phone": "(828) 250-5517",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": "Drive thru, pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.547210,-82.525210]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1062",
+          "name": "Buncombe County CEM - Sycamore Temple COG",
+          "street": "11 North Ann Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 250-5517",
+          "hours": "Updates soon for upcoming dates",
+          "type": "Market",
+          "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.593970,-82.559840]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "881",
+          "name": "Catholic Charities Diocese - Food Pantry",
+          "street": "50 Orange Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 255-0146",
+          "hours": "By appointment only.  Please call for information and to schedule an appointment.",
+          "type": "Food Pantrys",
+          "description": "Client choice suspended. Drive thru pick up of pre boxed food."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.601780,-82.551230]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1127",
+          "name": "Eliada Homes - ESTA Program",
+          "street": "823 Eliada Home Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(770) 722-4215",
+          "hours": "Mondays 10:00am - 5:00pm. By appointment only.  Please call for information and to schedule an appointment.",
+          "type": "Food Pantry",
+          "description": "By appointment only.  Please call for information and to schedule an appointment."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.602450,-82.617290]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "N/A",
+          "name": "Emmanuel Lutheran",
+          "street": "51 Wilburn Place",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828) 891-2401",
+          "hours": "Sundays 12-2PM",
+          "type": "Food Pantry",
+          "description": "Pre packed boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.585750,-82.602910]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "736",
+          "name": "First Baptist Church - Homeless Outreach",
+          "street": "5 Oak Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 252-4781",
+          "hours": "",
+          "type": "Food Pantry, Community Meal",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.598870,-82.547810]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "N/A",
+          "name": "Food Connection",
+          "street": "22 S. Pack Square Park, Suite 302",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 407-0353",
+          "hours": "Visit Food Connections website https://food-connection.org/ or visit their Facebook page for meal updates: https://www.facebook.com/foodconnection.co/",
+          "type": "Meal Service",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.595020,-82.550520]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "186",
+          "name": "Foster Seventh Day Adventist",
+          "street": "375 Hendersonville Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28803",
+          "phone": "(828) 274-2014",
+          "hours": "Tuesday, 8:00am - 10:00am",
+          "type": "Food Pantry",
+          "description": "Drive thru pick up of pre boxed food."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.556770,-82.539340]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1016",
+          "name": "Ingrid's Food Pantry",
+          "street": "718 Haywood Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828) 423-7793",
+          "hours": "Every Saturday, 8:00am - 10:00am in May",
+          "type": "Food Pantry, Produce Market",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.577030,-82.592190]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "818",
+          "name": "Oakley Baptist Church",
+          "street": "70 Fairview Ave",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28803",
+          "phone": "(828) 274-5124",
+          "hours": "Every Wednesday 10:30am-11:15am",
+          "type": "Food Pantry",
+          "description": "Drive thru distribution, low contact, prepacked boxes."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.566500,-82.514850]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1133",
+          "name": "Streets to Grace",
+          "street": "60 Hornot Circle",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828) 450-9908",
+          "hours": "Every Thursday at 10am",
+          "type": "Homeless outreach",
+          "description": "pre-pack boxes, allow folks to come and grab and go"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.617660,-82.583540]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "850",
+          "name": "Tabernacle Missionary Baptist Church",
+          "street": "56 Walton Street Asheville NC 28801",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 255-0054",
+          "hours": "Tuesday 12:00pm-2:30pm ",
+          "type": "Emergency Food Provider, Food Pantry, Youth",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.575470,-82.560920]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1044",
+          "name": "The Church of the Advocate",
+          "street": "60 Church Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 253-9361",
+          "hours": "Serving the homeless and disenfranchised, Sundays 2:30pm - 3:30pm  & Monday brunch 10:30am - 11:15am",
+          "type": "Community Meal",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.592600,-82.552430]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "906",
+          "name": "Community Meal",
+          "street": "297 Haywood Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 575-2577",
+          "hours": "Wednesdays 10:30am-12:00pm, Saturdays 10:30am-12:00pm, Sundays 8:30am-10:00am",
+          "type": "Community Meal",
+          "description": "Meals packed to go."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.593480,-82.563190]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "179",
+          "name": "The Salvation Army Of Asheville",
+          "street": "204 Haywood Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 253-4723",
+          "hours": "Food boxes by appointment only",
+          "type": "Emergency Shelter, Food Pantry",
+          "description": "Food Boxes by appointment only"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.595340,-82.560070]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "207",
+          "name": "Western Carolina Rescue Ministries",
+          "street": "225 Patton Avenue",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 254-0471",
+          "hours": "Food Distribution: Tues 2:00pm-3:00pm",
+          "type": "Emergency Shelter, Food Pantry, Community Meal",
+          "description": "All meals given to-go. Client choice suspended with distribution outside facility."
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.593520,-82.561450]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "1017",
+          "name": "YMCA Healthy Living Mobile Market",
+          "street": "30 Woodfin Street",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28801",
+          "phone": "(828) 775-7081",
+          "hours": "For the mobile market schedule, please visit: https://ymcawnc.org/nutritionprograms/schedules",
+          "type": "Produce Market",
+          "description": ""
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.599180,-82.549470]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "id": "751",
+          "name": "Zephyr Hills Freewill Baptist",
+          "street": "283 Shelburne Road",
+          "city": "Asheville",
+          "county": "Buncombe",
+          "zip": "28806",
+          "phone": "(828) 550-8494",
+          "hours": "September 10th 12PM-2PM & September 24 12PM-2PM",
+          "type": "Food Pantry",
+          "description": "additional distribution in September (twice instead of the once)"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [35.571070,-82.602170]
+        }
+      }
+
+      
+
+    ]
+  }
+  

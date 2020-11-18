@@ -1,0 +1,39 @@
+.full-screen {
+    height: 100vh;
+}
+.icon-image {
+    padding: 0px 15px 0px 15px;
+}
+.project-title {
+    padding: 100px 0px 0px 0px;
+}
+.project-box-right {
+    padding: 20px 180px 0px 0px;
+}
+.project-box-left {
+    padding: 20px 0px 0px 180px;
+}
+.space-top {
+    padding-top: 20px;
+}
+.stack-list {
+    padding-bottom: 20px;
+}
+.big-space-top {
+    padding-top: 100px;
+}
+.button-space {
+    padding: 150px 0px 50px 0px;
+}
+.contact-space {
+    padding: 80px 0px 150px 0px;
+}
+.project-boxes {
+    margin: 0px 50px 0px 50px;
+}
+.project-image {
+    border-radius: 20px;
+}
+.bold-title {
+    text-decoration: bold;
+}
